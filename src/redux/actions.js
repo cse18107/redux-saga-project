@@ -11,6 +11,7 @@ export const loadUsersError = (error) => ({
     type:types.LOAD_USERS_ERROR,
     payload:error
 });
+
 export const createUsersStart = (user) => ({
     type:types.CREATE_USERS_START,
     payload:user
@@ -20,5 +21,18 @@ export const createUsersSuccess = () => ({
 });
 export const createUsersError = (error) => ({
     type:types.CREATE_USERS_ERROR,
+    payload:error
+});
+
+export const deleteUsersStart = (userId) => ({
+    type:types.DELETE_USER_START,
+    payload:userId
+});
+export const deleteUsersSuccess = (userId) => ({
+    type:types.DELETE_USER_SUCCESS,
+    payload:userId
+});
+export const deleteUsersError = (error) => ({
+    type:types.DELETE_USER_ERROR,
     payload:error
 });

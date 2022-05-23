@@ -51,9 +51,9 @@ const Header = () => {
           </MDBNavbarToggler>
           <MDBCollapse navbar show={showBasic}>
             <MDBNavbarNav className="mr-auto mb-2 mb-1g-0">
-              {navItems.map((item) => {
+              {navItems.map((item,index) => {
                 return (
-                  <MDBNavbarItem>
+                  <MDBNavbarItem key={index}>
                     <MDBNavbarLink className="nav-link">
                       <NavLink to={item.to} className="text-white">
                         {item.tag}
