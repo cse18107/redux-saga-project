@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "James",
+      "email": "james@gmail.com",
+      "phone": 1234567890,
+      "address": "USA"
+    },
+    {
+      "name": "Soumodeep Maity",
+      "email": "cse18107@cemk.ac.in",
+      "phone": "08240500249",
+      "address": "Taramaa Apertment, A.C. Banerjee Road,P.O-Ariadha, P.S Belghoria ,Dist-North 24-Parganas",
+      "id": 2
+    },
+    {
+      "name": "Soumodeep Maity",
+      "email": "cse18107@cemk.ac.in",
+      "phone": "08240500249",
+      "address": "Taramaa Apertment, A.C. Banerjee Road,P.O-Ariadha, P.S Belghoria ,Dist-North 24-Parganas",
+      "id": 3
+    },
+    {
+      "name": "Soumodeep Maity",
+      "email": "cse18107@cemk.ac.in",
+      "phone": "08240500249",
+      "address": "Taramaa Apertment, A.C. Banerjee Road,P.O-Ariadha, P.S Belghoria ,Dist-North 24-Parganas",
+      "id": 4
+    },
+    {
+      "name": "Soumodeep Maity",
+      "email": "soumodeepmaity988@gmail.com",
+      "phone": "08240500249",
+      "address": "Kolkata",
+      "id": 5
+    },
+    {
+      "name": "Soumodeep Maity",
+      "email": "cse18107@cemk.ac.in",
+      "phone": "08240500249",
+      "address": "Taramaa Apertment, A.C. Banerjee Road,P.O-Ariadha, P.S Belghoria ,Dist-North 24-Parganas",
+      "id": 6
+    },
+    {
+      "name": "Soumodeep Maity",
+      "email": "soumodeepmaity988@gmail.com",
+      "phone": "08240500249",
+      "address": "Kolkata",
+      "id": 7
+    },
+    {
+      "name": "Soumodeep Maity",
+      "email": "cse18107@cemk.ac.in",
+      "phone": "08240500249",
+      "address": "Taramaa Apertment, A.C. Banerjee Road,P.O-Ariadha, P.S Belghoria ,Dist-North 24-Parganas",
+      "id": 8
+    }
+  ]
+}
